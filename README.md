@@ -1,6 +1,10 @@
 # vendor_app
 
-A new Flutter application.
+A E-commerce applicaton made with flutter and firebase.This the vendor app which can post data which can be send to customer application both the applications use firebase as their backend!
+
+![Alt text](vendorlogin.jpg?raw=true "Login Screen")
+![Alt text](vendorui.jpg?raw=true "Login Screen")
+
 
 ## Getting Started
 
