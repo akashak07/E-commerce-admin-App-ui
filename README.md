@@ -1,6 +1,7 @@
+
 # vendor_app
 
-A E-commerce applicaton made with flutter and firebase.This is the vendor app which can post data that can be send to the customer application, both the applications use firebase as their backend!
+E-commerce applicaton made with flutter and firebase.This is the vendor app which can post data that can be send to the customer application, both the applications use firebase as their backend!
 
 ![Alt text](vendorlogin.jpg?raw=true "Login Screen")
 ![Alt text](vendorui.jpg?raw=true "Login Screen")
